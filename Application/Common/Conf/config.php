@@ -4,10 +4,10 @@ return array(
     //使用sqlite数据库
     'DB_TYPE'   => 'Sqlite', 
     'DB_NAME'   => 'Sqlite/showdoc.db.php', 
-    //showdoc不再支持mysql http://www.showdoc.cc/help?page_id=31990
+    //doc.fuzhijing.com不再支持mysql http://www.showdoc.cc/help?page_id=31990
     'DB_HOST'   => 'localhost',
-    'DB_USER'   => 'showdoc', 
-    'DB_PWD'    => 'showdoc123456',
+    'DB_USER'   => 'doc.fuzhijing.com', 
+    'DB_PWD'    => 'doc.fuzhijing.com123456',
     'DB_PORT'   => 3306, // 端口
     'DB_PREFIX' => '', // 数据库表前缀
     'DB_CHARSET'=> 'utf8', // 字符集
