@@ -17,12 +17,12 @@ class IndexController extends BaseController {
     	$login_user = session("login_user");
     	$this->assign("login_user" ,$login_user);
     	if (LANG_SET == 'en-us') {
-    		$demo_url = "https://www.showdoc.cc/demo-en";
+    		$demo_url = "https://doc.fuzhijing.com/web/#/3?page_id=13-en";
     		$help_url = "https://www.showdoc.cc/help-en";
     		$creator_url = "https://github.com/star7th";
     	}
     	else{
-    		$demo_url = "https://www.showdoc.cc/demo";
+    		$demo_url = "https://doc.fuzhijing.com/web/#/3?page_id=13";
     		$help_url = "https://www.showdoc.cc/help";
     		$creator_url = "https://blog.star7th.com/";
     	}

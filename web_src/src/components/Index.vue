@@ -18,7 +18,7 @@
               <h2>{{$t("section_title1")}}</h2>
               <p><span v-html="$t('section_description1')"></span></p>
               <p>
-                  <a class="el-button " href="https://www.showdoc.cc/demo" target="_blank">{{$t("demo")}}</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  <a class="el-button " href="https://doc.fuzhijing.com/web/#/3?page_id=13" target="_blank">{{$t("demo")}}</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   <a class="el-button" href="https://www.showdoc.cc/help" target="_blank" >{{$t("help")}}&nbsp;</i></a>
               </p>
           </div>
